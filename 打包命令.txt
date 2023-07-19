@@ -1,0 +1,3 @@
+先安装Pyinstaller
+pip install pyinstaller
+Pyinstaller -F -w -i read.jpg pdfmerge.py
